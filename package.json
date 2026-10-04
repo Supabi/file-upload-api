@@ -15,7 +15,9 @@
   "dependencies": {
     "express": "^5.2.1",
     "file-type": "^16.5.4",
-    "multer": "^2.4.0"
+    "multer": "^2.4.0",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
